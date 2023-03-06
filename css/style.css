@@ -116,4 +116,8 @@ header {
     .karma {
         transform: translateY(50%);
     }
+
+    .card {
+        flex-basis: 25%;
+    }
 }
